@@ -1,0 +1,8 @@
+===>How to create react native mobile app
+1) expo init AppNameHere
+2) Select Blank most of the times
+3) npm start
+4) Scan the QR code from web on expo go app from mobile
+5) All set!
+
+(-----Mobile and laptop should have same internet connection)
